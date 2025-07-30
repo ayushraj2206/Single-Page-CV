@@ -21,4 +21,6 @@ Easily showcase your skills, education, and experience on one page.
 
 🛠️ Technologies Used
 HTML5
-CSS (if included inside HTML)
+CSS (included inside HTML)
+
+<img width="947" height="879" alt="Screenshot 2025-07-30 191508" src="https://github.com/user-attachments/assets/161a9284-51f5-412f-beed-fdf182e8a421" />
